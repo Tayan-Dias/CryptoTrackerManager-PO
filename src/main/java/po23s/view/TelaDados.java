@@ -77,7 +77,7 @@ public class TelaDados extends javax.swing.JFrame {
         }
     }
 
-    public void Att(java.awt.event.ActionEvent evt) {
+    public void att(java.awt.event.ActionEvent evt) {
         if (jTable2.getSelectedRow() != -1) {
             Cripto criptoSelecionada = bitcoins.get(jTable2.getSelectedRow());
             String nomeCripto = criptoSelecionada.getNome();
@@ -340,7 +340,7 @@ public class TelaDados extends javax.swing.JFrame {
     }// GEN-LAST:event_btnExcluirActionPerformed
 
     private void btnAtualizarActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_btnExcluirActionPerformed
-        Att(evt);
+        att(evt);
     }
 
     private void txtTickerActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_txtTickerActionPerformed
