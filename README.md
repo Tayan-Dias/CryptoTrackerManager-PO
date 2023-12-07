@@ -1,6 +1,5 @@
 ## CryptoCurrency Helper
 
-Objetivo
 O objetivo desse projeto é implementar uma aplicação Java com interface gráfica, utilizando os componentes do pacote javax.swing. Essa aplicação tem como finalidade permitir a consulta de uma API REST de criptoativos do Mercado Bitcoin. Esse projeto carrega os dados dos criptoativos e exibe as informações por meio de componentes de interface gráfica de forma intuitiva e amigável.
 
 ## Projeto
